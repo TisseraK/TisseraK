@@ -24,6 +24,14 @@
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <td><a href="https://github.com/TisseraK/coinrule_MobileApp"><b>Flutter : CoinRule Concept App</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/TisseraK/coinrule_MobileApp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/TisseraK/coinrule_MobileApp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/TisseraK/coinrule_MobileApp?style=flat-square&labelColor=343b41"/></td>
+      <td><p style=>✅</p></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TisseraK/coinrule_MobileApp?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/TisseraK/Rent_Car_App_Flutter"><b>Flutter : Concept Car Rent App</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/TisseraK/Rent_Car_App_Flutter?style=flat-square&labelColor=343b41"/></td>
