@@ -25,12 +25,12 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/TisseraK/Clone_Rec-Im"><b>Flutter : Clone App Rec'Im</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/TisseraK/Clone_Rec-Im?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/TisseraK/Clone_Rec-Im?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/TisseraK/Clone_Rec-Im?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/TisseraK/Pokedex_Flutter"><b>Flutter : Clone App Rec'Im</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/TisseraK/Pokedex_Flutter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/TisseraK/Pokedex_Flutter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/TisseraK/Pokedex_Flutter?style=flat-square&labelColor=343b41"/></td>
       <td><p style=>✅</p></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TisseraK/Clone_Rec-Im?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/TisseraK/Pokedex_Flutter?style=flat-square&labelColor=343b41"/></td>
     </tr>
   <tr>
       <td><a href="https://github.com/TisseraK/coinrule_MobileApp"><b>Flutter : CoinRule Concept App</b></a></td>
