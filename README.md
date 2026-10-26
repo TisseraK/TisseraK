@@ -48,12 +48,25 @@ I've been shipping Flutter apps since 2021, end to end: architecture, security, 
 
 <br clear="left"/>
 
-I design and build the agency's client apps, working directly with the founders and the agency's UX designer.
+Step'Com is a communication agency. I design and build the mobile apps of its clients, working directly with the founders and the agency's UX designer, from scoping to release.
 
-- <img src="assets/logos/selection30.png" alt="" width="18" /> **SELECTION 30®** · *Business network · 2024 →*<br/>
-  A Flutter app that replaced several tools: member & admin spaces, real-time dashboards (referrals, deals, KPIs), meeting and attendance tracking.
-- <img src="assets/logos/lhh.png" alt="" width="18" /> **Les Halles de l'Habitat** · *Business app & AI · 2025 →*<br/>
-  Six user profiles with role-based access, an AI assistant named "Emma" (Claude API through Cloud Functions, GDPR-compliant) and before/after renovation renders powered by Gemini.
+<img src="assets/logos/selection30.png" alt="" width="20" /> **SELECTION 30®** · *Business network · 2024 →*
+
+A Flutter app that replaced the network's patchwork of tools with a single place for members and administrators.
+
+- **Member & admin spaces**: each member gets an automatically created profile with their own stats and personalised data.
+- **Real-time dashboards**: referrals, closed deals and key indicators for every member, updated live.
+- **Meetings & attendance**: meeting management and attendance rate tracking, with the repetitive admin tasks automated.
+
+<img src="assets/logos/lhh.png" alt="" width="20" /> **Les Halles de l'Habitat** · *Business app & AI · 2025 →*
+
+A business app for a home-renovation company, with generative AI built into the daily workflow.
+
+- **Six user profiles** (business introducers, craftsmen, office staff, management, works managers…), with deal tracking by status and a full history.
+- **Access rights enforced at the source**: every profile only sees its own data, and quotes stay confidential until management approves them.
+- **"Emma", a conversational assistant**: Cloud Functions connected to the Claude API, API key kept server-side, data partitioned by profile, GDPR-compliant.
+- **AI renovation renders**: a before/after render generated from a single photo (Gemini), plus a works cost estimator, both inside the app.
+- **How we work**: scoping note, project split into priced batches, step-by-step development validated with the client, acceptance testing, then production release.
 
 <sub>`Flutter` `Dart` `Firebase` `Cloud Functions (TypeScript)` `Node.js` `Claude API` `Gemini` `OneSignal`</sub>
 
@@ -64,10 +77,19 @@ I design and build the agency's client apps, working directly with the founders 
 
 <br clear="left"/>
 
-Took over the V1, then designed the V2 (tech and UX) with the product team.
+INYO makes connected mosquito traps. I took over the existing V1, then designed the V2 with the product team, both its technical foundations and its user experience.
 
-- **Client app**: Bluetooth Low Energy control of the traps, with scheduling, battery monitoring and notifications.
-- **After-sales app (mobile & web)**, *built from scratch*: client and user management, detailed trap sheets, a map of installed traps and intervention history.
+**Client app**
+
+- **Bluetooth Low Energy** communication with the traps: remote control, time-based scheduling, battery monitoring and notifications.
+
+**After-sales app (mobile & web)**, *built from scratch*
+
+An internal tool that gives the after-sales team everything it needs to diagnose a trap quickly.
+
+- **Accounts**: management of client companies, their users and their access rights.
+- **A detailed sheet for every trap**: serial number, board type, status, diffusion mode, remaining battery life, last sync.
+- **Installed base at a glance**: a map of every installed trap, key statistics on the home screen and the full intervention history.
 
 <sub>`Flutter (mobile & web)` `Dart` `BLE` `Firebase` `Firestore` `Maps`</sub>
 
@@ -78,9 +100,14 @@ Took over the V1, then designed the V2 (tech and UX) with the product team.
 
 <br clear="left"/>
 
-Sole owner of the iOS & Android app for 4.5 years, from requirements to production. The BLoC architecture I set up scaled for the whole period without a rewrite, and carries the complete purchase flow: catalogue, cart, Click & Collect and pickup map.
+Le Casier Français runs connected lockers. I was the sole owner of its iOS & Android app for four and a half years.
 
-<sub>`Flutter` `Dart` `BLoC` `Firebase` `REST API` `Google Maps` `OneSignal`</sub>
+- **Full lifecycle**: requirements analysis, development, production releases, maintenance and incident fixes.
+- **A BLoC architecture built to last**: it let the app keep evolving for the whole period without ever needing a rewrite.
+- **Complete purchase flow**: catalogue, cart, Click & Collect and a map of pickup points.
+- **Platform & delivery**: Firebase, REST API, push notifications, and every release published on the App Store and Google Play.
+
+<sub>`Flutter` `Dart` `BLoC` `Firebase` `REST API` `Google Maps` `OneSignal` `Git`</sub>
 
 <img src="assets/logos/tisserak.png" alt="TisseraK" width="52" align="left" />
 
@@ -89,9 +116,13 @@ Sole owner of the iOS & Android app for 4.5 years, from requirements to producti
 
 <br clear="left"/>
 
-Clients in France and abroad, including remote work in English with teams in India, the UK and Switzerland on a mobile card game and a crypto app.
+My own studio, through which I work with clients in France and abroad.
 
-<sub>`Unit, widget & integration tests` `CI/CD` `OAuth 2.0` `AI-assisted dev (Claude Code)`</sub>
+- **International projects**: remote collaboration in English with teams in India, the UK and Switzerland, on a mobile card game and a crypto app.
+- **Engineering practices**: unit, widget & integration tests, CI/CD pipelines, OAuth 2.0, and AI-assisted development with Claude Code.
+- **How I work**: requirements workshops, estimates, short sprints (Scrum, Kanban), regular progress updates, acceptance testing with the client, delivery, then maintenance.
+
+<sub>`Unit, widget & integration tests` `CI/CD` `OAuth 2.0` `Scrum` `Kanban` `AI-assisted dev (Claude Code)`</sub>
 
 <img src="assets/logos/newdaycare.png" alt="NewDayCare" width="52" align="left" />
 
@@ -100,7 +131,12 @@ Clients in France and abroad, including remote work in English with teams in Ind
 
 <br clear="left"/>
 
-Sole developer of the iOS & Android app, end to end: Flutter front end, Firebase back end (auth, Firestore, storage).
+Sole developer on the project, which I owned end to end.
+
+- **iOS & Android app** built in Flutter, from the first screen to release.
+- **Firebase back end**: authentication, Firestore database and file storage.
+
+<sub>`Flutter` `Dart` `Firebase`</sub>
 
 ### 🛠️ Tech stack
 
